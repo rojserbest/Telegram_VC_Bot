@@ -1,9 +1,0 @@
-OpenCC
-Pillow
-Pyrogram
-TgCrypto
-youtube_dl
-requests
-youtube_search
-aiohttp
-aiofiles
